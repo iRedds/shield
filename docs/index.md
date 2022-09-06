@@ -12,3 +12,4 @@
 
 Guides:
 * [Protecting an API with Access Tokens](guides/api-tokens.md)
+* [Mobile Authentication with Access Tokens](guides/mobile-apps.md)
